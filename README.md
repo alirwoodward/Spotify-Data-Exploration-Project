@@ -7,3 +7,4 @@ Aims and Objectives of the Project:
 - Use the pre-trained deep net, YAMNet, to classify music genres based on each individual song
 - Clean the YAMNet generated data so that it is in suitable condition for convenient and applicable future use
 - Analyse the generated song generes in comparison to the previously given artist genres
+ 
